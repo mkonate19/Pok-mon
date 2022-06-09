@@ -10,10 +10,7 @@
     margin-left: 40%;
 }
 #form{
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
+    text-align: center;
 }
 
 .center-on-page, .center-on-page:before, .center-on-page:after {
