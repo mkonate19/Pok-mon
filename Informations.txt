@@ -1,7 +1,7 @@
 
 Hello, 
 
-Pour l'ajout de l'image dans le formulaire vous mettez le nom d'un pokémon qui existe déjà dans le dossier pokémon sans le (.png) 
+Pour l'ajout de l'image dans le formulaire vous mettez le nom (le nom avec la première lettre en majuscule. Ex : Pikachu) d'un pokémon qui existe déjà dans le dossier pokémon sans le (.png) 
 
 
 Et l'API pour la photo se situe dans le champs remplir maintenant.
